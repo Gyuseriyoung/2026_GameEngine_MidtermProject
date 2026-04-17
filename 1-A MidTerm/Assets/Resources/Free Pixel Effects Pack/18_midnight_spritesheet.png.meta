@@ -587,12 +587,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 723
-        width: 49
-        height: 52
+        x: 0
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -609,12 +609,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_1
       rect:
         serializedVersion: 2
-        x: 123
-        y: 741
-        width: 9
-        height: 19
+        x: 100
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -631,12 +631,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_2
       rect:
         serializedVersion: 2
-        x: 125
-        y: 722
-        width: 47
-        height: 54
+        x: 200
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -653,12 +653,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_3
       rect:
         serializedVersion: 2
-        x: 223
-        y: 722
-        width: 49
-        height: 53
+        x: 300
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -675,12 +675,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_4
       rect:
         serializedVersion: 2
-        x: 323
-        y: 722
-        width: 49
-        height: 53
+        x: 400
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -697,12 +697,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_5
       rect:
         serializedVersion: 2
-        x: 424
-        y: 752
-        width: 6
-        height: 9
+        x: 500
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -719,12 +719,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_6
       rect:
         serializedVersion: 2
-        x: 428
-        y: 722
-        width: 45
-        height: 54
+        x: 600
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -741,12 +741,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_7
       rect:
         serializedVersion: 2
-        x: 524
-        y: 755
-        width: 6
-        height: 6
+        x: 700
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -763,12 +763,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_8
       rect:
         serializedVersion: 2
-        x: 525
-        y: 722
-        width: 48
-        height: 54
+        x: 0
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -785,12 +785,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_9
       rect:
         serializedVersion: 2
-        x: 622
-        y: 741
-        width: 8
-        height: 20
+        x: 100
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -807,12 +807,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_10
       rect:
         serializedVersion: 2
-        x: 629
-        y: 721
-        width: 44
-        height: 54
+        x: 200
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -829,12 +829,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_11
       rect:
         serializedVersion: 2
-        x: 725
-        y: 721
-        width: 48
-        height: 54
+        x: 300
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -851,12 +851,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_12
       rect:
         serializedVersion: 2
-        x: 422
-        y: 741
-        width: 7
-        height: 12
+        x: 400
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -873,12 +873,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_13
       rect:
         serializedVersion: 2
-        x: 522
-        y: 741
-        width: 7
-        height: 12
+        x: 500
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -895,12 +895,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_14
       rect:
         serializedVersion: 2
-        x: 629
-        y: 737
-        width: 8
-        height: 7
+        x: 600
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -917,12 +917,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_15
       rect:
         serializedVersion: 2
-        x: 722
-        y: 742
-        width: 7
-        height: 11
+        x: 700
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -939,12 +939,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_16
       rect:
         serializedVersion: 2
-        x: 628
-        y: 727
-        width: 8
-        height: 11
+        x: 0
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -961,12 +961,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_17
       rect:
         serializedVersion: 2
-        x: 22
-        y: 642
-        width: 8
-        height: 12
+        x: 100
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -983,12 +983,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_18
       rect:
         serializedVersion: 2
-        x: 29
-        y: 637
-        width: 7
-        height: 7
+        x: 200
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1005,12 +1005,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_19
       rect:
         serializedVersion: 2
-        x: 30
-        y: 621
-        width: 43
-        height: 54
+        x: 300
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1027,12 +1027,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_20
       rect:
         serializedVersion: 2
-        x: 121
-        y: 641
-        width: 9
-        height: 13
+        x: 400
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1049,12 +1049,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_21
       rect:
         serializedVersion: 2
-        x: 128
-        y: 637
-        width: 8
-        height: 7
+        x: 500
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1071,12 +1071,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_22
       rect:
         serializedVersion: 2
-        x: 130
-        y: 620
-        width: 44
-        height: 56
+        x: 600
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1093,12 +1093,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_23
       rect:
         serializedVersion: 2
-        x: 221
-        y: 635
-        width: 15
-        height: 17
+        x: 700
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1115,12 +1115,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_24
       rect:
         serializedVersion: 2
-        x: 231
-        y: 620
-        width: 43
-        height: 55
+        x: 0
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1137,12 +1137,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_25
       rect:
         serializedVersion: 2
-        x: 323
-        y: 620
-        width: 51
-        height: 55
+        x: 100
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1159,12 +1159,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_26
       rect:
         serializedVersion: 2
-        x: 328
-        y: 637
-        width: 8
-        height: 7
+        x: 200
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1181,12 +1181,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_27
       rect:
         serializedVersion: 2
-        x: 428
-        y: 637
-        width: 7
-        height: 7
+        x: 300
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1203,12 +1203,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_28
       rect:
         serializedVersion: 2
-        x: 432
-        y: 620
-        width: 43
-        height: 55
+        x: 400
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1225,12 +1225,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_29
       rect:
         serializedVersion: 2
-        x: 528
-        y: 638
-        width: 7
-        height: 6
+        x: 500
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1247,12 +1247,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_30
       rect:
         serializedVersion: 2
-        x: 531
-        y: 620
-        width: 44
-        height: 56
+        x: 600
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1269,12 +1269,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_31
       rect:
         serializedVersion: 2
-        x: 628
-        y: 638
-        width: 7
-        height: 6
+        x: 700
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1291,12 +1291,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_32
       rect:
         serializedVersion: 2
-        x: 630
-        y: 619
-        width: 45
-        height: 57
+        x: 0
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1313,12 +1313,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_33
       rect:
         serializedVersion: 2
-        x: 728
-        y: 637
-        width: 7
-        height: 7
+        x: 100
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1335,12 +1335,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_34
       rect:
         serializedVersion: 2
-        x: 731
-        y: 619
-        width: 44
-        height: 56
+        x: 200
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1357,12 +1357,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_35
       rect:
         serializedVersion: 2
-        x: 25
-        y: 626
-        width: 18
-        height: 13
+        x: 300
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1379,12 +1379,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_36
       rect:
         serializedVersion: 2
-        x: 127
-        y: 626
-        width: 14
-        height: 9
+        x: 400
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1401,12 +1401,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_37
       rect:
         serializedVersion: 2
-        x: 227
-        y: 627
-        width: 11
-        height: 8
+        x: 500
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1423,12 +1423,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_38
       rect:
         serializedVersion: 2
-        x: 327
-        y: 629
-        width: 6
-        height: 6
+        x: 600
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1445,12 +1445,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_39
       rect:
         serializedVersion: 2
-        x: 329
-        y: 625
-        width: 7
-        height: 6
+        x: 700
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1467,12 +1467,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_40
       rect:
         serializedVersion: 2
-        x: 424
-        y: 627
-        width: 8
-        height: 11
+        x: 0
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1489,12 +1489,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_41
       rect:
         serializedVersion: 2
-        x: 526
-        y: 627
-        width: 6
-        height: 8
+        x: 100
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1511,12 +1511,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_42
       rect:
         serializedVersion: 2
-        x: 626
-        y: 629
-        width: 6
-        height: 6
+        x: 200
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1533,12 +1533,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_43
       rect:
         serializedVersion: 2
-        x: 726
-        y: 629
-        width: 6
-        height: 6
+        x: 300
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1555,12 +1555,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_44
       rect:
         serializedVersion: 2
-        x: 26
-        y: 527
-        width: 49
-        height: 48
+        x: 400
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1577,12 +1577,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_45
       rect:
         serializedVersion: 2
-        x: 27
-        y: 537
-        width: 8
-        height: 7
+        x: 500
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1599,12 +1599,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_46
       rect:
         serializedVersion: 2
-        x: 126
-        y: 527
-        width: 50
-        height: 49
+        x: 600
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1621,12 +1621,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_47
       rect:
         serializedVersion: 2
-        x: 128
-        y: 538
-        width: 6
-        height: 6
+        x: 700
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1643,12 +1643,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_48
       rect:
         serializedVersion: 2
-        x: 227
-        y: 538
-        width: 7
-        height: 7
+        x: 0
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1665,12 +1665,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_49
       rect:
         serializedVersion: 2
-        x: 230
-        y: 526
-        width: 46
-        height: 49
+        x: 100
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1687,12 +1687,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_50
       rect:
         serializedVersion: 2
-        x: 329
-        y: 529
-        width: 47
-        height: 47
+        x: 200
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1709,12 +1709,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_51
       rect:
         serializedVersion: 2
-        x: 357
-        y: 532
-        width: 7
-        height: 7
+        x: 300
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1731,12 +1731,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_52
       rect:
         serializedVersion: 2
-        x: 430
-        y: 525
-        width: 46
-        height: 50
+        x: 400
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1753,12 +1753,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_53
       rect:
         serializedVersion: 2
-        x: 532
-        y: 528
-        width: 45
-        height: 47
+        x: 500
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1775,12 +1775,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_54
       rect:
         serializedVersion: 2
-        x: 632
-        y: 528
-        width: 45
-        height: 48
+        x: 600
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1797,12 +1797,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_55
       rect:
         serializedVersion: 2
-        x: 731
-        y: 526
-        width: 46
-        height: 50
+        x: 700
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1819,12 +1819,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_56
       rect:
         serializedVersion: 2
-        x: 35
-        y: 520
-        width: 17
-        height: 10
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1841,12 +1841,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_57
       rect:
         serializedVersion: 2
-        x: 135
-        y: 519
-        width: 21
-        height: 15
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1863,12 +1863,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_58
       rect:
         serializedVersion: 2
-        x: 236
-        y: 519
-        width: 21
-        height: 17
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1885,12 +1885,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_59
       rect:
         serializedVersion: 2
-        x: 333
-        y: 521
-        width: 24
-        height: 14
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1907,12 +1907,12 @@ TextureImporter:
       name: 18_midnight_spritesheet_60
       rect:
         serializedVersion: 2
-        x: 354
-        y: 519
-        width: 8
-        height: 9
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1925,2145 +1925,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_61
-      rect:
-        serializedVersion: 2
-        x: 435
-        y: 521
-        width: 16
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 135e614ae11cabab0800000000000000
-      internalID: -4991464899640629967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_62
-      rect:
-        serializedVersion: 2
-        x: 449
-        y: 526
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4df8b620d897a800800000000000000
-      internalID: 623635093184380234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_63
-      rect:
-        serializedVersion: 2
-        x: 466
-        y: 528
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 503fc5e5655a10e30800000000000000
-      internalID: 4468034095697163013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_64
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 520
-        width: 14
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5aea724b8c99fd90800000000000000
-      internalID: -7063442418624173473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_65
-      rect:
-        serializedVersion: 2
-        x: 548
-        y: 526
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41d0b5da78f411290800000000000000
-      internalID: -7921462825420387052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_66
-      rect:
-        serializedVersion: 2
-        x: 638
-        y: 521
-        width: 13
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b054e2cd69525b80800000000000000
-      internalID: -8407559226391244617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_67
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 526
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e872a9747df0abb0800000000000000
-      internalID: -4926659315644598040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_68
-      rect:
-        serializedVersion: 2
-        x: 738
-        y: 522
-        width: 17
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49ac3b0a05d0b7bc0800000000000000
-      internalID: -3784416421930087788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_69
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 520
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 662db885d0c899f90800000000000000
-      internalID: -6946366961294257562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_70
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 520
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 161d3f83cc97eeaf0800000000000000
-      internalID: -365220601734639263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_71
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 519
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aef30a604cf3a2500800000000000000
-      internalID: 372180030368792554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_72
-      rect:
-        serializedVersion: 2
-        x: 455
-        y: 519
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b0d04496fa2f3da0800000000000000
-      internalID: -5963000143077650253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_73
-      rect:
-        serializedVersion: 2
-        x: 555
-        y: 518
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf4eda59686cdaa20800000000000000
-      internalID: 3075332401903035643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_74
-      rect:
-        serializedVersion: 2
-        x: 654
-        y: 518
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a158dcf53b3df0800800000000000000
-      internalID: 580915644313994522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_75
-      rect:
-        serializedVersion: 2
-        x: 754
-        y: 518
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0c8fc79c27b15b40800000000000000
-      internalID: 5427320428111563790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_76
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 421
-        width: 47
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 713a0b291102f0990800000000000000
-      internalID: -7417674801408335081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_77
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 421
-        width: 47
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6369ef26baf071240800000000000000
-      internalID: 4762292359742264886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_78
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 421
-        width: 47
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f14e35dd97fad76b0800000000000000
-      internalID: -5296884648778669025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_79
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 425
-        width: 47
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d500614d432df510800000000000000
-      internalID: 1584461458620548567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_80
-      rect:
-        serializedVersion: 2
-        x: 430
-        y: 419
-        width: 48
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 941135c8f60a686f0800000000000000
-      internalID: -682681892543983287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_81
-      rect:
-        serializedVersion: 2
-        x: 530
-        y: 418
-        width: 46
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a797c3219c7143830800000000000000
-      internalID: 4049888117274737018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_82
-      rect:
-        serializedVersion: 2
-        x: 565
-        y: 435
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a5e90ec8e9a33650800000000000000
-      internalID: 6211495128428307875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_83
-      rect:
-        serializedVersion: 2
-        x: 630
-        y: 425
-        width: 46
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d9716b6a46c38ee0800000000000000
-      internalID: -1259945447802177065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_84
-      rect:
-        serializedVersion: 2
-        x: 665
-        y: 438
-        width: 14
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf562cad08abe5fa0800000000000000
-      internalID: -5810001406672607748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_85
-      rect:
-        serializedVersion: 2
-        x: 730
-        y: 425
-        width: 45
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28fa350c2966639b0800000000000000
-      internalID: -5100776747472539774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_86
-      rect:
-        serializedVersion: 2
-        x: 765
-        y: 438
-        width: 14
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5aa731c0dd519eb10800000000000000
-      internalID: 2011162747732196005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_87
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 418
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b77e3cf872a0aeb20800000000000000
-      internalID: 3164352853213177723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_88
-      rect:
-        serializedVersion: 2
-        x: 155
-        y: 418
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b90238797dafc2050800000000000000
-      internalID: 5777268225876369563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_89
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 418
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97531e9799331b500800000000000000
-      internalID: 410165775335241081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_90
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 422
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 530c9127da3920720800000000000000
-      internalID: 2810971490585526325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_91
-      rect:
-        serializedVersion: 2
-        x: 355
-        y: 417
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61fd63c2678d80a10800000000000000
-      internalID: 1875987246859345686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_92
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 422
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0bd3a2b78aa08fbb0800000000000000
-      internalID: -4902156475655635536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_93
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 326
-        width: 38
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc3ca264766fae110800000000000000
-      internalID: 1291115166614340555
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_94
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 358
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a07f9364c275f190800000000000000
-      internalID: -7929305381105340247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_95
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 329
-        width: 38
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db570b1a4df7fd980800000000000000
-      internalID: -8511944219484457539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_96
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 358
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea8f139c8598eb540800000000000000
-      internalID: 5025605248617674926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_97
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 328
-        width: 38
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2637b60901d87e520800000000000000
-      internalID: 2731306801305449314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_98
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 358
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26093a156b6f5b340800000000000000
-      internalID: 4879077034239955042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_99
-      rect:
-        serializedVersion: 2
-        x: 329
-        y: 328
-        width: 41
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5b2092264c917710800000000000000
-      internalID: 1689303160282164059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_100
-      rect:
-        serializedVersion: 2
-        x: 364
-        y: 358
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d478e8983c5172b20800000000000000
-      internalID: 3109477997293242189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_101
-      rect:
-        serializedVersion: 2
-        x: 429
-        y: 328
-        width: 46
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4fab8fba699a3c160800000000000000
-      internalID: 7044660706732980980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_102
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 359
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1524fc9a5b68d80a0800000000000000
-      internalID: -6877692941128744367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_103
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 328
-        width: 39
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 443adafb2e5422970800000000000000
-      internalID: 8728615867978195780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_104
-      rect:
-        serializedVersion: 2
-        x: 564
-        y: 359
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87ece5f3ca0bc0590800000000000000
-      internalID: -7706590608493719944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_105
-      rect:
-        serializedVersion: 2
-        x: 628
-        y: 327
-        width: 39
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 540ded0ff0e4a2210800000000000000
-      internalID: 1308944472077160517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_106
-      rect:
-        serializedVersion: 2
-        x: 665
-        y: 358
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: facd4e40ea84b5530800000000000000
-      internalID: 3844746619134467247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_107
-      rect:
-        serializedVersion: 2
-        x: 728
-        y: 327
-        width: 39
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19f09ab870ead8340800000000000000
-      internalID: 4867738119688490897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_108
-      rect:
-        serializedVersion: 2
-        x: 765
-        y: 359
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2481cc742dc413d0800000000000000
-      internalID: -3236736675576970196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_109
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 350
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 891e803d08b20e4a0800000000000000
-      internalID: -6566200424409800296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_110
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 335
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7c7b237afa328260800000000000000
-      internalID: 7098300810037787771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_111
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 332
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffe3d38d72da30310800000000000000
-      internalID: 1370129098293985023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_112
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 350
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b98e6f38c69ae8810800000000000000
-      internalID: 1769537987138742427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_113
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 350
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 258f48360ec095600800000000000000
-      internalID: 457410995036682322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_114
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 332
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5650ce75aea910290800000000000000
-      internalID: -7925883537907251867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_115
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 350
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3d51034c80f2ade0800000000000000
-      internalID: -1323230855283253955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_116
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 337
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 20c7d65ec884e0260800000000000000
-      internalID: 7065664635372665858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_117
-      rect:
-        serializedVersion: 2
-        x: 467
-        y: 337
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8a4200d40ec72870800000000000000
-      internalID: 8658115328708070030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_118
-      rect:
-        serializedVersion: 2
-        x: 474
-        y: 340
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f8804e0c419e0c30800000000000000
-      internalID: 4327556047792277753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_119
-      rect:
-        serializedVersion: 2
-        x: 567
-        y: 337
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec62e095196a456c0800000000000000
-      internalID: -4155513412961556786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_120
-      rect:
-        serializedVersion: 2
-        x: 667
-        y: 337
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f45f2ceb1c59b350800000000000000
-      internalID: 6032954450835887350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_121
-      rect:
-        serializedVersion: 2
-        x: 668
-        y: 350
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0898bebfc5ce34fa0800000000000000
-      internalID: -5817546409524885120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_122
-      rect:
-        serializedVersion: 2
-        x: 767
-        y: 337
-        width: 8
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 603e7eabe0211a400800000000000000
-      internalID: 333567701876728582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_123
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 227
-        width: 48
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e5cab7fa89eab930800000000000000
-      internalID: 4159893988901045736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_124
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 259
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0cf73b40f7ec2ce0800000000000000
-      internalID: -1428511962543162354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_125
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 227
-        width: 49
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1586622f174afb180800000000000000
-      internalID: -9097371912964249519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_126
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 259
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 048e3ac0b351df920800000000000000
-      internalID: 3025597868022163520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_127
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 227
-        width: 41
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17f25241527c95840800000000000000
-      internalID: 5213417005723758449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_128
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 260
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 362bccdbfdc0df020800000000000000
-      internalID: 2377070333423039075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_129
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 226
-        width: 41
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98c67fd77cdf0b500800000000000000
-      internalID: 410106599344401545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_130
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 260
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66c694b0be89b3420800000000000000
-      internalID: 2610848544265432166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_131
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 226
-        width: 49
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9b7422cc766e7860800000000000000
-      internalID: 7529568313029196703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_132
-      rect:
-        serializedVersion: 2
-        x: 466
-        y: 260
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea499cab027702240800000000000000
-      internalID: 4764939388214416558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_133
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 226
-        width: 48
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90a6db70e48c29c20800000000000000
-      internalID: 3211849721731443209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_134
-      rect:
-        serializedVersion: 2
-        x: 566
-        y: 260
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2e0518992dcc8cc0800000000000000
-      internalID: -3707362814703890898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_135
-      rect:
-        serializedVersion: 2
-        x: 627
-        y: 226
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b65f12017463d220800000000000000
-      internalID: 2509459853905188530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_136
-      rect:
-        serializedVersion: 2
-        x: 666
-        y: 260
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57c34ec9f7962d710800000000000000
-      internalID: 1716550404795546741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_137
-      rect:
-        serializedVersion: 2
-        x: 726
-        y: 226
-        width: 49
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b66fcb493e38e610800000000000000
-      internalID: 1650637679237228211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_138
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 236
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8190e26c82e5b570800000000000000
-      internalID: 8481934565804380554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_139
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 236
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd2c103480c1ead20800000000000000
-      internalID: 3291599199463916251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_140
-      rect:
-        serializedVersion: 2
-        x: 269
-        y: 250
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3360db970f7b7060800000000000000
-      internalID: 6952290120432116539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_141
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 237
-        width: 7
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9cd14843fb951eab0800000000000000
-      internalID: -4980601035140358711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_142
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 125
-        width: 43
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2b6c7503b4ece610800000000000000
-      internalID: 1651946620880448300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_143
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 161
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 965641ff8daf04d40800000000000000
-      internalID: 5566724949329339753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_144
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 125
-        width: 43
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d69003ff845f7960800000000000000
-      internalID: 7601887673258645200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_145
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 125
-        width: 45
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22f8a9aeafcfef850800000000000000
-      internalID: 6412841074030186274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_146
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 125
-        width: 45
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d33ae5f22df5d420800000000000000
-      internalID: 2654305882001257429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_147
-      rect:
-        serializedVersion: 2
-        x: 425
-        y: 125
-        width: 45
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45cb3f400ad1757a0800000000000000
-      internalID: -6388604973286704044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_148
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 124
-        width: 45
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee839706fed4968e0800000000000000
-      internalID: -1699741693844571922
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_149
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 124
-        width: 45
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 089f35caa5780be60800000000000000
-      internalID: 7976023763581139328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_150
-      rect:
-        serializedVersion: 2
-        x: 724
-        y: 124
-        width: 46
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0becbf910e0f7ee0800000000000000
-      internalID: -1261273970502735089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_151
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 24
-        width: 47
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d09640a56e4aef80800000000000000
-      internalID: -8076556783347920681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_152
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 40
-        width: 12
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a07612ee0149682f0800000000000000
-      internalID: -970925869216209142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_153
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 23
-        width: 45
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1eb3788a07fdd4bf0800000000000000
-      internalID: -338368722026152991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_154
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 41
-        width: 12
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a024e2d81a53e1b10800000000000000
-      internalID: 1954058256299999754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_155
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 23
-        width: 45
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5787d9e080388780800000000000000
-      internalID: -8680634951519467684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_156
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 23
-        width: 49
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e9e49220397e65d0800000000000000
-      internalID: -3067381048547153439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 18_midnight_spritesheet_157
-      rect:
-        serializedVersion: 2
-        x: 423
-        y: 23
-        width: 49
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: baf9c0d1eb063bb20800000000000000
-      internalID: 3148966934109527979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 921733d328ff84d44ba180feb721ec25
     internalID: 0
     vertices: []
     indices: 
@@ -4071,74 +1937,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       18_midnight_spritesheet_0: 2836480152517601870
       18_midnight_spritesheet_1: -3643894774315503928
       18_midnight_spritesheet_10: -1298083768606061157
-      18_midnight_spritesheet_100: 3109477997293242189
-      18_midnight_spritesheet_101: 7044660706732980980
-      18_midnight_spritesheet_102: -6877692941128744367
-      18_midnight_spritesheet_103: 8728615867978195780
-      18_midnight_spritesheet_104: -7706590608493719944
-      18_midnight_spritesheet_105: 1308944472077160517
-      18_midnight_spritesheet_106: 3844746619134467247
-      18_midnight_spritesheet_107: 4867738119688490897
-      18_midnight_spritesheet_108: -3236736675576970196
-      18_midnight_spritesheet_109: -6566200424409800296
       18_midnight_spritesheet_11: 8093268784921398680
-      18_midnight_spritesheet_110: 7098300810037787771
-      18_midnight_spritesheet_111: 1370129098293985023
-      18_midnight_spritesheet_112: 1769537987138742427
-      18_midnight_spritesheet_113: 457410995036682322
-      18_midnight_spritesheet_114: -7925883537907251867
-      18_midnight_spritesheet_115: -1323230855283253955
-      18_midnight_spritesheet_116: 7065664635372665858
-      18_midnight_spritesheet_117: 8658115328708070030
-      18_midnight_spritesheet_118: 4327556047792277753
-      18_midnight_spritesheet_119: -4155513412961556786
       18_midnight_spritesheet_12: -1317489849786439739
-      18_midnight_spritesheet_120: 6032954450835887350
-      18_midnight_spritesheet_121: -5817546409524885120
-      18_midnight_spritesheet_122: 333567701876728582
-      18_midnight_spritesheet_123: 4159893988901045736
-      18_midnight_spritesheet_124: -1428511962543162354
-      18_midnight_spritesheet_125: -9097371912964249519
-      18_midnight_spritesheet_126: 3025597868022163520
-      18_midnight_spritesheet_127: 5213417005723758449
-      18_midnight_spritesheet_128: 2377070333423039075
-      18_midnight_spritesheet_129: 410106599344401545
       18_midnight_spritesheet_13: 3079114349046288548
-      18_midnight_spritesheet_130: 2610848544265432166
-      18_midnight_spritesheet_131: 7529568313029196703
-      18_midnight_spritesheet_132: 4764939388214416558
-      18_midnight_spritesheet_133: 3211849721731443209
-      18_midnight_spritesheet_134: -3707362814703890898
-      18_midnight_spritesheet_135: 2509459853905188530
-      18_midnight_spritesheet_136: 1716550404795546741
-      18_midnight_spritesheet_137: 1650637679237228211
-      18_midnight_spritesheet_138: 8481934565804380554
-      18_midnight_spritesheet_139: 3291599199463916251
       18_midnight_spritesheet_14: -1850302710861422086
-      18_midnight_spritesheet_140: 6952290120432116539
-      18_midnight_spritesheet_141: -4980601035140358711
-      18_midnight_spritesheet_142: 1651946620880448300
-      18_midnight_spritesheet_143: 5566724949329339753
-      18_midnight_spritesheet_144: 7601887673258645200
-      18_midnight_spritesheet_145: 6412841074030186274
-      18_midnight_spritesheet_146: 2654305882001257429
-      18_midnight_spritesheet_147: -6388604973286704044
-      18_midnight_spritesheet_148: -1699741693844571922
-      18_midnight_spritesheet_149: 7976023763581139328
       18_midnight_spritesheet_15: -4849972725203124513
-      18_midnight_spritesheet_150: -1261273970502735089
-      18_midnight_spritesheet_151: -8076556783347920681
-      18_midnight_spritesheet_152: -970925869216209142
-      18_midnight_spritesheet_153: -338368722026152991
-      18_midnight_spritesheet_154: 1954058256299999754
-      18_midnight_spritesheet_155: -8680634951519467684
-      18_midnight_spritesheet_156: -3067381048547153439
-      18_midnight_spritesheet_157: 3148966934109527979
       18_midnight_spritesheet_16: 1706611276178068450
       18_midnight_spritesheet_17: -1475377461793238234
       18_midnight_spritesheet_18: -393138869551162100
@@ -4189,48 +1999,9 @@ TextureImporter:
       18_midnight_spritesheet_59: -6042600510670738070
       18_midnight_spritesheet_6: 7333324851912577740
       18_midnight_spritesheet_60: -8907365297867281783
-      18_midnight_spritesheet_61: -4991464899640629967
-      18_midnight_spritesheet_62: 623635093184380234
-      18_midnight_spritesheet_63: 4468034095697163013
-      18_midnight_spritesheet_64: -7063442418624173473
-      18_midnight_spritesheet_65: -7921462825420387052
-      18_midnight_spritesheet_66: -8407559226391244617
-      18_midnight_spritesheet_67: -4926659315644598040
-      18_midnight_spritesheet_68: -3784416421930087788
-      18_midnight_spritesheet_69: -6946366961294257562
       18_midnight_spritesheet_7: -611563102071076472
-      18_midnight_spritesheet_70: -365220601734639263
-      18_midnight_spritesheet_71: 372180030368792554
-      18_midnight_spritesheet_72: -5963000143077650253
-      18_midnight_spritesheet_73: 3075332401903035643
-      18_midnight_spritesheet_74: 580915644313994522
-      18_midnight_spritesheet_75: 5427320428111563790
-      18_midnight_spritesheet_76: -7417674801408335081
-      18_midnight_spritesheet_77: 4762292359742264886
-      18_midnight_spritesheet_78: -5296884648778669025
-      18_midnight_spritesheet_79: 1584461458620548567
       18_midnight_spritesheet_8: 1341293002823793137
-      18_midnight_spritesheet_80: -682681892543983287
-      18_midnight_spritesheet_81: 4049888117274737018
-      18_midnight_spritesheet_82: 6211495128428307875
-      18_midnight_spritesheet_83: -1259945447802177065
-      18_midnight_spritesheet_84: -5810001406672607748
-      18_midnight_spritesheet_85: -5100776747472539774
-      18_midnight_spritesheet_86: 2011162747732196005
-      18_midnight_spritesheet_87: 3164352853213177723
-      18_midnight_spritesheet_88: 5777268225876369563
-      18_midnight_spritesheet_89: 410165775335241081
       18_midnight_spritesheet_9: 3687885857908724931
-      18_midnight_spritesheet_90: 2810971490585526325
-      18_midnight_spritesheet_91: 1875987246859345686
-      18_midnight_spritesheet_92: -4902156475655635536
-      18_midnight_spritesheet_93: 1291115166614340555
-      18_midnight_spritesheet_94: -7929305381105340247
-      18_midnight_spritesheet_95: -8511944219484457539
-      18_midnight_spritesheet_96: 5025605248617674926
-      18_midnight_spritesheet_97: 2731306801305449314
-      18_midnight_spritesheet_98: 4879077034239955042
-      18_midnight_spritesheet_99: 1689303160282164059
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
