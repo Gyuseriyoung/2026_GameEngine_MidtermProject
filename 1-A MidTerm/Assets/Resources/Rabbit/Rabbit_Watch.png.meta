@@ -131,12 +131,12 @@ TextureImporter:
       name: Rabbit_Watch_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 27
-        width: 245
-        height: 386
+        x: 0
+        y: 6
+        width: 416
+        height: 474
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: Rabbit_Watch_1
       rect:
         serializedVersion: 2
-        x: 492
-        y: 27
-        width: 321
-        height: 386
+        x: 457
+        y: 6
+        width: 457
+        height: 474
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,12 +175,12 @@ TextureImporter:
       name: Rabbit_Watch_2
       rect:
         serializedVersion: 2
-        x: 970
-        y: 27
-        width: 327
-        height: 386
+        x: 914
+        y: 6
+        width: 457
+        height: 474
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -197,12 +197,12 @@ TextureImporter:
       name: Rabbit_Watch_3
       rect:
         serializedVersion: 2
-        x: 1368
-        y: 293
-        width: 28
-        height: 25
+        x: 1371
+        y: 6
+        width: 457
+        height: 474
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -215,55 +215,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Rabbit_Watch_4
-      rect:
-        serializedVersion: 2
-        x: 1383
-        y: 18
-        width: 431
-        height: 434
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c5a53f4f041f3fd0800000000000000
-      internalID: -2360145623732869690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rabbit_Watch_5
-      rect:
-        serializedVersion: 2
-        x: 1969
-        y: 27
-        width: 228
-        height: 386
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7e3bdb8dc0a8acc0800000000000000
-      internalID: -3699530289209721220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 69d7e35a34654b44ba2a23a6a07a5b61
     internalID: 0
     vertices: []
     indices: 
@@ -271,14 +227,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":457.0,"y":474.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rabbit_Watch_0: -8083713587651757890
       Rabbit_Watch_1: -4233598427710642138
       Rabbit_Watch_2: -6354243784507343885
       Rabbit_Watch_3: -852334487946902102
-      Rabbit_Watch_4: -2360145623732869690
-      Rabbit_Watch_5: -3699530289209721220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
