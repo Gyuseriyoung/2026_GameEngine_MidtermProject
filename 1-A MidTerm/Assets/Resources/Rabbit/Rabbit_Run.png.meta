@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 701cb34bb0ae91346a3337249e361792
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4327684104581184336
+    second: Rabbit_Run_0
+  - first:
+      213: 192200330971115958
+    second: Rabbit_Run_1
+  - first:
+      213: 2616389104444991457
+    second: Rabbit_Run_2
+  - first:
+      213: -7291747647894330298
+    second: Rabbit_Run_3
+  - first:
+      213: 8267068881706802867
+    second: Rabbit_Run_4
+  - first:
+      213: -3670148738309439239
+    second: Rabbit_Run_5
+  - first:
+      213: -6885936712399099195
+    second: Rabbit_Run_6
+  - first:
+      213: -2572270153853840413
+    second: Rabbit_Run_7
+  - first:
+      213: -8713050997139199101
+    second: Rabbit_Run_8
+  - first:
+      213: -8813212481044228680
+    second: Rabbit_Run_9
+  - first:
+      213: 5562727906860516069
+    second: Rabbit_Run_10
+  - first:
+      213: -4863478458707370484
+    second: Rabbit_Run_11
+  - first:
+      213: -8421852807407765087
+    second: Rabbit_Run_12
+  - first:
+      213: -1598692894285853842
+    second: Rabbit_Run_13
+  - first:
+      213: 1187115400595757667
+    second: Rabbit_Run_14
+  - first:
+      213: 625279649880848672
+    second: Rabbit_Run_15
+  - first:
+      213: 427690735707305508
+    second: Rabbit_Run_16
+  - first:
+      213: 887242892622600860
+    second: Rabbit_Run_17
+  - first:
+      213: 1115356480132782137
+    second: Rabbit_Run_18
+  - first:
+      213: -2163248268669822811
+    second: Rabbit_Run_19
+  - first:
+      213: 5957962067545896723
+    second: Rabbit_Run_20
+  - first:
+      213: -2186015940486553725
+    second: Rabbit_Run_21
+  - first:
+      213: 7553639541290788877
+    second: Rabbit_Run_22
+  - first:
+      213: -4986019008885576684
+    second: Rabbit_Run_23
+  - first:
+      213: 4534804829537214951
+    second: Rabbit_Run_24
+  - first:
+      213: -6380240667220803788
+    second: Rabbit_Run_25
+  - first:
+      213: 8887185794003915069
+    second: Rabbit_Run_26
+  - first:
+      213: 6598306415621827089
+    second: Rabbit_Run_27
+  - first:
+      213: -4777977445291946981
+    second: Rabbit_Run_28
+  - first:
+      213: -4216765906666447661
+    second: Rabbit_Run_29
+  - first:
+      213: -7236243998882390517
+    second: Rabbit_Run_30
+  - first:
+      213: -8158334776035866875
+    second: Rabbit_Run_31
+  - first:
+      213: -6916090176934733890
+    second: Rabbit_Run_32
+  - first:
+      213: -2481331391485233538
+    second: Rabbit_Run_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rabbit_Run_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 38
+        width: 203
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b7aa993c50f0c30800000000000000
+      internalID: 4327684104581184336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 358
+        width: 91
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1fe35ce25daa200800000000000000
+      internalID: 192200330971115958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 20
+        width: 380
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e765ac37084f4420800000000000000
+      internalID: 2616389104444991457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 19
+        width: 209
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644e777c5228eca90800000000000000
+      internalID: -7291747647894330298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 41
+        width: 199
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bed1dbd8578ab270800000000000000
+      internalID: 8267068881706802867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_5
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 39
+        width: 201
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0c734fa23011dc0800000000000000
+      internalID: -3670148738309439239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_6
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 249
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca61a71b0d3070a0800000000000000
+      internalID: -6885936712399099195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_7
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 238
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d33d6ce57d4cd0800000000000000
+      internalID: -2572270153853840413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_8
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 38
+        width: 208
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba7a52846051780800000000000000
+      internalID: -8713050997139199101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_9
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d15161fd21b580800000000000000
+      internalID: -8813212481044228680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_10
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 220
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2c2960f87c23d40800000000000000
+      internalID: 5562727906860516069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_11
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 212
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e9bff0c14718cb0800000000000000
+      internalID: -4863478458707370484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_12
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 202
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a975d71e719f1b80800000000000000
+      internalID: -8421852807407765087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_13
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 214
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b862b684d40d9e0800000000000000
+      internalID: -1598692894285853842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_14
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad7efca2b797010800000000000000
+      internalID: 1187115400595757667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_15
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 176
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029bd6857807da800800000000000000
+      internalID: 625279649880848672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_16
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 171
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4263f8745767fe500800000000000000
+      internalID: 427690735707305508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_17
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 144
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a9244c5be105c00800000000000000
+      internalID: 887242892622600860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_18
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 131
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9389e3c2fca8a7f00800000000000000
+      internalID: 1115356480132782137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 22
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8d4f839299af1e0800000000000000
+      internalID: -2163248268669822811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_20
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 20
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317335d0feeeea250800000000000000
+      internalID: 5957962067545896723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_21
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 32
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f15f98516b9a1e0800000000000000
+      internalID: -2186015940486553725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_22
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 25
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d086bf3542be3d860800000000000000
+      internalID: 7553639541290788877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_23
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 40
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ca704e02a1ecab0800000000000000
+      internalID: -4986019008885576684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_24
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 36
+        width: 104
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1aa4e47fcdeee30800000000000000
+      internalID: 4534804829537214951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_25
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 33
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f7dc8cae4d477a0800000000000000
+      internalID: -6380240667220803788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 14
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315080b460a55b70800000000000000
+      internalID: 8887185794003915069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ae156c9b4e19b50800000000000000
+      internalID: 6598306415621827089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_28
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3
+        width: 146
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8b8c04d631bdb0800000000000000
+      internalID: -4777977445291946981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_29
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 6
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc1b20dfb90b75c0800000000000000
+      internalID: -4216765906666447661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_30
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e109a1c62b39b90800000000000000
+      internalID: -7236243998882390517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_31
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 20
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5078aa3feb5c7ce80800000000000000
+      internalID: -8158334776035866875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_32
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 10
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb79c3980ac1500a0800000000000000
+      internalID: -6916090176934733890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbit_Run_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e763f700f3a809dd0800000000000000
+      internalID: -2481331391485233538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rabbit_Run_0: 4327684104581184336
+      Rabbit_Run_1: 192200330971115958
+      Rabbit_Run_10: 5562727906860516069
+      Rabbit_Run_11: -4863478458707370484
+      Rabbit_Run_12: -8421852807407765087
+      Rabbit_Run_13: -1598692894285853842
+      Rabbit_Run_14: 1187115400595757667
+      Rabbit_Run_15: 625279649880848672
+      Rabbit_Run_16: 427690735707305508
+      Rabbit_Run_17: 887242892622600860
+      Rabbit_Run_18: 1115356480132782137
+      Rabbit_Run_19: -2163248268669822811
+      Rabbit_Run_2: 2616389104444991457
+      Rabbit_Run_20: 5957962067545896723
+      Rabbit_Run_21: -2186015940486553725
+      Rabbit_Run_22: 7553639541290788877
+      Rabbit_Run_23: -4986019008885576684
+      Rabbit_Run_24: 4534804829537214951
+      Rabbit_Run_25: -6380240667220803788
+      Rabbit_Run_26: 8887185794003915069
+      Rabbit_Run_27: 6598306415621827089
+      Rabbit_Run_28: -4777977445291946981
+      Rabbit_Run_29: -4216765906666447661
+      Rabbit_Run_3: -7291747647894330298
+      Rabbit_Run_30: -7236243998882390517
+      Rabbit_Run_31: -8158334776035866875
+      Rabbit_Run_32: -6916090176934733890
+      Rabbit_Run_33: -2481331391485233538
+      Rabbit_Run_4: 8267068881706802867
+      Rabbit_Run_5: -3670148738309439239
+      Rabbit_Run_6: -6885936712399099195
+      Rabbit_Run_7: -2572270153853840413
+      Rabbit_Run_8: -8713050997139199101
+      Rabbit_Run_9: -8813212481044228680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
