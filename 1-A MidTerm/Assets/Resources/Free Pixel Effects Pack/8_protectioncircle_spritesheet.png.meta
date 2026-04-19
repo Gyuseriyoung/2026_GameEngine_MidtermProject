@@ -296,12 +296,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 726
-        width: 33
-        height: 34
+        x: 0
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,12 +318,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_1
       rect:
         serializedVersion: 2
-        x: 135
-        y: 727
-        width: 33
-        height: 33
+        x: 100
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,12 +340,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_2
       rect:
         serializedVersion: 2
-        x: 235
-        y: 726
-        width: 33
-        height: 34
+        x: 200
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_3
       rect:
         serializedVersion: 2
-        x: 334
-        y: 726
-        width: 34
-        height: 34
+        x: 300
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +384,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_4
       rect:
         serializedVersion: 2
-        x: 434
-        y: 726
-        width: 34
-        height: 35
+        x: 400
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +406,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_5
       rect:
         serializedVersion: 2
-        x: 534
-        y: 727
-        width: 34
-        height: 34
+        x: 500
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +428,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_6
       rect:
         serializedVersion: 2
-        x: 634
-        y: 727
-        width: 34
-        height: 34
+        x: 600
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,12 +450,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_7
       rect:
         serializedVersion: 2
-        x: 733
-        y: 727
-        width: 36
-        height: 34
+        x: 700
+        y: 700
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,12 +472,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_8
       rect:
         serializedVersion: 2
-        x: 33
-        y: 627
-        width: 36
-        height: 35
+        x: 0
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,12 +494,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_9
       rect:
         serializedVersion: 2
-        x: 133
-        y: 627
-        width: 35
-        height: 35
+        x: 100
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,12 +516,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_10
       rect:
         serializedVersion: 2
-        x: 233
-        y: 627
-        width: 35
-        height: 35
+        x: 200
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -538,12 +538,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_11
       rect:
         serializedVersion: 2
-        x: 333
-        y: 628
-        width: 35
-        height: 34
+        x: 300
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -560,12 +560,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_12
       rect:
         serializedVersion: 2
-        x: 433
-        y: 628
-        width: 35
-        height: 34
+        x: 400
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,12 +582,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_13
       rect:
         serializedVersion: 2
-        x: 533
-        y: 627
-        width: 35
-        height: 35
+        x: 500
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,12 +604,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_14
       rect:
         serializedVersion: 2
-        x: 633
-        y: 627
-        width: 34
-        height: 35
+        x: 600
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,12 +626,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_15
       rect:
         serializedVersion: 2
-        x: 733
-        y: 627
-        width: 35
-        height: 35
+        x: 700
+        y: 600
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -648,12 +648,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_16
       rect:
         serializedVersion: 2
-        x: 34
-        y: 527
-        width: 34
-        height: 35
+        x: 0
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -670,12 +670,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_17
       rect:
         serializedVersion: 2
-        x: 133
-        y: 527
-        width: 35
-        height: 35
+        x: 100
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -692,12 +692,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_18
       rect:
         serializedVersion: 2
-        x: 233
-        y: 526
-        width: 35
-        height: 36
+        x: 200
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -714,12 +714,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_19
       rect:
         serializedVersion: 2
-        x: 333
-        y: 527
-        width: 35
-        height: 35
+        x: 300
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -736,12 +736,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_20
       rect:
         serializedVersion: 2
-        x: 433
-        y: 527
-        width: 35
-        height: 34
+        x: 400
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -758,12 +758,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_21
       rect:
         serializedVersion: 2
-        x: 533
-        y: 527
-        width: 36
-        height: 34
+        x: 500
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -780,12 +780,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_22
       rect:
         serializedVersion: 2
-        x: 634
-        y: 527
-        width: 35
-        height: 34
+        x: 600
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -802,12 +802,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_23
       rect:
         serializedVersion: 2
-        x: 734
-        y: 527
-        width: 35
-        height: 34
+        x: 700
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -824,12 +824,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_24
       rect:
         serializedVersion: 2
-        x: 34
-        y: 427
-        width: 35
-        height: 33
+        x: 0
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -846,12 +846,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_25
       rect:
         serializedVersion: 2
-        x: 134
-        y: 428
-        width: 35
-        height: 32
+        x: 100
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -868,12 +868,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_26
       rect:
         serializedVersion: 2
-        x: 235
-        y: 428
-        width: 34
-        height: 33
+        x: 200
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -890,12 +890,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_27
       rect:
         serializedVersion: 2
-        x: 335
-        y: 428
-        width: 34
-        height: 33
+        x: 300
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -912,12 +912,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_28
       rect:
         serializedVersion: 2
-        x: 434
-        y: 427
-        width: 35
-        height: 34
+        x: 400
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -934,12 +934,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_29
       rect:
         serializedVersion: 2
-        x: 534
-        y: 427
-        width: 35
-        height: 34
+        x: 500
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -956,12 +956,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_30
       rect:
         serializedVersion: 2
-        x: 634
-        y: 427
-        width: 35
-        height: 35
+        x: 600
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -978,12 +978,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_31
       rect:
         serializedVersion: 2
-        x: 734
-        y: 427
-        width: 34
-        height: 35
+        x: 700
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1000,12 +1000,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_32
       rect:
         serializedVersion: 2
-        x: 33
-        y: 327
-        width: 35
-        height: 35
+        x: 0
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1022,12 +1022,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_33
       rect:
         serializedVersion: 2
-        x: 133
-        y: 327
-        width: 35
-        height: 35
+        x: 100
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1044,12 +1044,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_34
       rect:
         serializedVersion: 2
-        x: 233
-        y: 327
-        width: 35
-        height: 35
+        x: 200
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1066,12 +1066,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_35
       rect:
         serializedVersion: 2
-        x: 333
-        y: 327
-        width: 34
-        height: 34
+        x: 300
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1088,12 +1088,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_36
       rect:
         serializedVersion: 2
-        x: 433
-        y: 328
-        width: 34
-        height: 33
+        x: 400
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1110,12 +1110,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_37
       rect:
         serializedVersion: 2
-        x: 533
-        y: 328
-        width: 35
-        height: 33
+        x: 500
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1132,12 +1132,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_38
       rect:
         serializedVersion: 2
-        x: 633
-        y: 327
-        width: 35
-        height: 33
+        x: 600
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1154,12 +1154,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_39
       rect:
         serializedVersion: 2
-        x: 733
-        y: 327
-        width: 35
-        height: 33
+        x: 700
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1176,12 +1176,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_40
       rect:
         serializedVersion: 2
-        x: 33
-        y: 227
-        width: 35
-        height: 34
+        x: 0
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1198,12 +1198,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_41
       rect:
         serializedVersion: 2
-        x: 133
-        y: 227
-        width: 35
-        height: 34
+        x: 100
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1220,12 +1220,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_42
       rect:
         serializedVersion: 2
-        x: 233
-        y: 227
-        width: 35
-        height: 34
+        x: 200
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1242,12 +1242,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_43
       rect:
         serializedVersion: 2
-        x: 333
-        y: 226
-        width: 36
-        height: 35
+        x: 300
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1264,12 +1264,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_44
       rect:
         serializedVersion: 2
-        x: 434
-        y: 227
-        width: 35
-        height: 35
+        x: 400
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1286,12 +1286,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_45
       rect:
         serializedVersion: 2
-        x: 534
-        y: 227
-        width: 34
-        height: 35
+        x: 500
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1308,12 +1308,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_46
       rect:
         serializedVersion: 2
-        x: 634
-        y: 227
-        width: 35
-        height: 35
+        x: 600
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1330,12 +1330,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_47
       rect:
         serializedVersion: 2
-        x: 734
-        y: 227
-        width: 35
-        height: 35
+        x: 700
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1352,12 +1352,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_48
       rect:
         serializedVersion: 2
-        x: 35
-        y: 127
-        width: 34
-        height: 35
+        x: 0
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1374,12 +1374,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_49
       rect:
         serializedVersion: 2
-        x: 135
-        y: 127
-        width: 34
-        height: 35
+        x: 100
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1396,12 +1396,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_50
       rect:
         serializedVersion: 2
-        x: 234
-        y: 128
-        width: 35
-        height: 34
+        x: 200
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1418,12 +1418,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_51
       rect:
         serializedVersion: 2
-        x: 334
-        y: 128
-        width: 35
-        height: 34
+        x: 300
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1440,12 +1440,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_52
       rect:
         serializedVersion: 2
-        x: 434
-        y: 128
-        width: 35
-        height: 34
+        x: 400
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1462,12 +1462,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_53
       rect:
         serializedVersion: 2
-        x: 533
-        y: 127
-        width: 36
-        height: 35
+        x: 500
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1484,12 +1484,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_54
       rect:
         serializedVersion: 2
-        x: 633
-        y: 127
-        width: 36
-        height: 35
+        x: 600
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1506,12 +1506,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_55
       rect:
         serializedVersion: 2
-        x: 733
-        y: 127
-        width: 36
-        height: 35
+        x: 700
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1528,12 +1528,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_56
       rect:
         serializedVersion: 2
-        x: 33
-        y: 27
-        width: 35
-        height: 34
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1550,12 +1550,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_57
       rect:
         serializedVersion: 2
-        x: 133
-        y: 26
-        width: 35
-        height: 35
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1572,12 +1572,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_58
       rect:
         serializedVersion: 2
-        x: 234
-        y: 26
-        width: 34
-        height: 35
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1594,12 +1594,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_59
       rect:
         serializedVersion: 2
-        x: 334
-        y: 26
-        width: 34
-        height: 35
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1616,12 +1616,12 @@ TextureImporter:
       name: 8_protectioncircle_spritesheet_60
       rect:
         serializedVersion: 2
-        x: 434
-        y: 26
-        width: 33
-        height: 34
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1638,7 +1638,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d2bdcd25e3ff94b41948e93e64125a7c
     internalID: 0
     vertices: []
     indices: 
@@ -1646,7 +1646,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       8_protectioncircle_spritesheet_0: 8523873947856415115
       8_protectioncircle_spritesheet_1: 7755000219157788031
