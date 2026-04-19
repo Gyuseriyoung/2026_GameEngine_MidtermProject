@@ -7,6 +7,10 @@ TagManager:
   - Boundary
   - Enemy
   - Obstacle
+  - Infinity
+  - Quick
+  - Jumping
+  - Watch
   layers:
   - Default
   - TransparentFX

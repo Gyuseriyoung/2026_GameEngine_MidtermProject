@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,11 +10,30 @@ public class PlayerController : MonoBehaviour
     public float jumpForce = 5f;
     public Transform groundCheck;
     public LayerMask groundLayer;
+    public float InfinityTime = 7f;
+    public float blinkInterval = 0.1f;
 
+    private float defaultMoveSpeed;
+    private float defaultJumpForce;
     private Animator pAni;
     private Rigidbody2D rb;
     private bool isGrounded;
     private float moveInput;
+    
+    
+    Coroutine InvicibleCoroutine;
+    Coroutine speedRoutine;
+    Coroutine jumpRoutine;
+    SpriteRenderer sr;
+
+    private bool isInfinity = false;
+
+    void Start()
+    {
+        sr = GetComponent<SpriteRenderer>();
+        defaultMoveSpeed = moveSpeed;
+        defaultJumpForce = jumpForce;
+    }
 
     private void Awake()
     {
@@ -24,7 +44,11 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.CompareTag("Respawn"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            if (!isInfinity)
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            }
+            
         }
 
         if (collision.CompareTag("Finish"))
@@ -34,7 +58,29 @@ public class PlayerController : MonoBehaviour
 
         if (collision.CompareTag("Enemy"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            if (!isInfinity)
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            }
+            
+        }
+
+        if (collision.CompareTag("Infinity"))
+        {
+            ActivateInfinity();
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.CompareTag("Quick"))
+        {
+            ActivateSpeed(1.5f, 7f); // 1.5배, 3초
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.CompareTag("Jumping"))
+        {
+            ActivateJump(1.5f, 7f);
+            Destroy(collision.gameObject);
         }
     }
         
@@ -69,4 +115,68 @@ public class PlayerController : MonoBehaviour
             pAni.SetTrigger("Jump");
         }
     }
+    
+    IEnumerator InfinityCoroutine()
+    {
+        isInfinity = true;
+
+        float timer = 0f;
+
+        while (timer < InfinityTime)
+        {
+            sr.enabled = !sr.enabled; // 깜빡임
+
+            yield return new WaitForSeconds(blinkInterval);
+            timer += blinkInterval;
+        }
+
+        sr.enabled = true; // 끝날 때 다시 보이게
+        isInfinity = false;
+    }
+
+    IEnumerator SpeedUpCoroutine(float multiplier, float duration)
+    {
+        moveSpeed = defaultMoveSpeed * multiplier;
+
+        yield return new WaitForSeconds(duration);
+
+        moveSpeed = defaultMoveSpeed;
+    }
+
+    IEnumerator JumpUpCoroutine(float multiplier, float duration)
+    {
+        jumpForce = defaultJumpForce * multiplier;
+
+        yield return new WaitForSeconds(duration);
+
+        jumpForce = defaultJumpForce;
+    }
+
+    void ActivateInfinity()
+    {
+        if (InvicibleCoroutine != null)
+        {
+            StopCoroutine(InvicibleCoroutine);
+        }
+
+        InvicibleCoroutine = StartCoroutine(InfinityCoroutine());
+    }
+
+    void ActivateSpeed(float multiplier, float duration)
+    {
+        if (speedRoutine != null)
+            StopCoroutine(speedRoutine);
+
+        speedRoutine = StartCoroutine(SpeedUpCoroutine(multiplier, duration));
+    }
+
+    void ActivateJump(float multiplier, float duration)
+    {
+        if (jumpRoutine != null)
+            StopCoroutine(jumpRoutine);
+
+        jumpRoutine = StartCoroutine(JumpUpCoroutine(multiplier, duration));
+    }
+
+
 }
