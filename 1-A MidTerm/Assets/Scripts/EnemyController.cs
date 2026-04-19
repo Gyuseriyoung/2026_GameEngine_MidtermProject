@@ -2,15 +2,35 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    public float movespeed = 3f;
+
+    private Rigidbody2D rb;
+    private bool isMovingRight = true;
+
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (isMovingRight)
+        {
+            rb.linearVelocity = new Vector2(movespeed, rb.linearVelocity.y);
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(-movespeed, rb.linearVelocity.y);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Boundary"))
+        {
+            isMovingRight = !isMovingRight;
+        }
     }
 }
