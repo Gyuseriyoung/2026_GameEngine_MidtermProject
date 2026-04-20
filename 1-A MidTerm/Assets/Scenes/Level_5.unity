@@ -5131,7 +5131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6335212150415366791, guid: 79ebea10936f46b4baca7fe1f9704929, type: 3}
       propertyPath: nextlevel
-      value: Level_1
+      value: Finish Game
       objectReference: {fileID: 0}
     - target: {fileID: 6839955671260413995, guid: 79ebea10936f46b4baca7fe1f9704929, type: 3}
       propertyPath: m_Enabled
