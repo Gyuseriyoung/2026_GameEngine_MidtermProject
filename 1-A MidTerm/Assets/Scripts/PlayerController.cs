@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
     public float InfinityTime = 7f;
     public float blinkInterval = 0.1f;
+    public GameObject clearObjectPrefab;
+    public Transform clearSpawnPoint;
 
     private float defaultMoveSpeed;
     private float defaultJumpForce;
@@ -19,7 +21,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
     private float moveInput;
-    
+    private int lightCount = 0;
     
     Coroutine InvicibleCoroutine;
     Coroutine speedRoutine;
@@ -82,6 +84,8 @@ public class PlayerController : MonoBehaviour
             ActivateJump(1.5f, 7f);
             Destroy(collision.gameObject);
         }
+
+        
     }
         
     // Update is called once per frame
@@ -98,6 +102,21 @@ public class PlayerController : MonoBehaviour
             transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
         }
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+    }
+
+    public void AddLight()
+    {
+        lightCount++;
+
+        if (lightCount >= 6)
+        {
+            SpawnClearObject();
+        }
+    }
+
+    void SpawnClearObject()
+    {
+        Instantiate(clearObjectPrefab, clearSpawnPoint.position, Quaternion.identity);
     }
 
     public void OnMove(InputValue value)
