@@ -20,9 +20,15 @@ public class PlayerController : MonoBehaviour
     private Animator pAni;
     private Rigidbody2D rb;
     private bool isGrounded;
+    private bool wasGrounded;
+    private bool isRespawning = false;
+    private bool respawnSet = false;
     private float moveInput;
     private int lightCount = 0;
-    
+
+    Vector3 lastSafePosition;
+    Vector3 respawnPosition;
+
     Coroutine InvicibleCoroutine;
     Coroutine speedRoutine;
     Coroutine jumpRoutine;
@@ -41,6 +47,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         pAni = GetComponent<Animator>();
+        boss = FindObjectOfType<BossController>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -65,6 +72,15 @@ public class PlayerController : MonoBehaviour
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
             
+        }
+
+        if (collision.CompareTag("BossEnemy"))
+        {
+            if (!isInfinity)
+            {
+                Respawn();
+            }
+
         }
 
         if (collision.CompareTag("Infinity"))
@@ -102,6 +118,43 @@ public class PlayerController : MonoBehaviour
             transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
         }
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+        // 착지순간만 체크
+        if (!isRespawning && !wasGrounded && isGrounded)
+        {
+            lastSafePosition = transform.position;
+        }
+
+        wasGrounded = isGrounded;
+    }
+
+    public Vector3 GetLastSafePosition()
+    {
+        return lastSafePosition;
+    }
+
+    public void SetRespawnPoint(Vector3 pos)
+    {
+        if (respawnSet) return;
+        respawnPosition = pos;
+        respawnSet = true;
+      
+    }
+
+    public BossController boss;
+
+    public void Respawn()
+    {
+       isRespawning = true;
+
+        transform.position = respawnPosition;
+
+        // 보스 웨이브 리셋
+        if (boss != null)
+        {
+            boss.ResetBoss();
+        }
+
+        StartCoroutine(RespawnDelay());
     }
 
     public void AddLight()
@@ -169,6 +222,13 @@ public class PlayerController : MonoBehaviour
         yield return new WaitForSeconds(duration);
 
         jumpForce = defaultJumpForce;
+    }
+
+    IEnumerator RespawnDelay()
+    {
+        yield return new WaitForSeconds(0.2f);
+
+        isRespawning = false;
     }
 
     void ActivateInfinity()

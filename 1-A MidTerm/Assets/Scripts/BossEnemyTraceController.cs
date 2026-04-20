@@ -2,15 +2,18 @@ using UnityEngine;
 
 public class BossEnemyTraceController : MonoBehaviour
 {
-    public float moveSpeed = 0.5f;
+    public float moveSpeed = 0.77f;
     public float raycastDistance = 0.2f;
     public float traceDistance = 2f;
+
+    float defaultSpeed;
 
     private Transform player;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        defaultSpeed = moveSpeed;
         player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
@@ -22,6 +25,26 @@ public class BossEnemyTraceController : MonoBehaviour
         {
             boss.RemoveMob(gameObject);
         }
+    }
+
+    
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            collision.gameObject.GetComponent<PlayerController>().Respawn();
+        }
+    }
+
+    public void SetSpeed(float multiplier)
+    {
+        moveSpeed = defaultSpeed * multiplier;
+    }
+
+    public void ResetSpeed()
+    {
+        moveSpeed = defaultSpeed;
     }
 
     // Update is called once per frame

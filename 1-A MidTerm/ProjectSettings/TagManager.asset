@@ -10,7 +10,7 @@ TagManager:
   - Infinity
   - Quick
   - Jumping
-  - Watch
+  - BossEnemy
   layers:
   - Default
   - TransparentFX
