@@ -82,7 +82,7 @@ public class PlayerController : MonoBehaviour
             }
 
         }
-
+        
         if (collision.CompareTag("Infinity"))
         {
             ActivateInfinity();
@@ -91,7 +91,7 @@ public class PlayerController : MonoBehaviour
 
         if (collision.CompareTag("Quick"))
         {
-            ActivateSpeed(1.5f, 7f); // 1.5배, 3초
+            ActivateSpeed(1.5f, 7f); // 1.5배, 7초
             Destroy(collision.gameObject);
         }
 
