@@ -5067,7 +5067,7 @@ Transform:
   m_GameObject: {fileID: 1221928226}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16.42, y: 3.31, z: -0.06}
+  m_LocalPosition: {x: 17.2, y: 3.32, z: -0.06}
   m_LocalScale: {x: 2.8637536, y: 2.8637536, z: 2.8637536}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5131,7 +5131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6335212150415366791, guid: 79ebea10936f46b4baca7fe1f9704929, type: 3}
       propertyPath: nextlevel
-      value: Finish Game
+      value: FinishGame
       objectReference: {fileID: 0}
     - target: {fileID: 6839955671260413995, guid: 79ebea10936f46b4baca7fe1f9704929, type: 3}
       propertyPath: m_Enabled
@@ -110053,6 +110053,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -1.62
       objectReference: {fileID: 0}
+    - target: {fileID: 3898835530281456988, guid: b5acdacec0c86f941907a99d915d1145, type: 3}
+      propertyPath: boss
+      value: 
+      objectReference: {fileID: 1109674473}
     - target: {fileID: 3898835530281456988, guid: b5acdacec0c86f941907a99d915d1145, type: 3}
       propertyPath: clearSpawnPoint
       value: 
